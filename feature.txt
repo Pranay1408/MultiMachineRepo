@@ -1,1 +1,2 @@
 Feature added by VM1
+Feature improved by VM2
