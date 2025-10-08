@@ -1,1 +1,2 @@
 Hello from VM1
+Line from VM1 before sync
