@@ -1,2 +1,3 @@
-Hello from VM1
-Line from VM1 before sync
+Hello from VM
+Hello from VM2
+Line from VM1 before sync1
