@@ -1,1 +1,2 @@
 Hello from VM1
+Hello from VM2
